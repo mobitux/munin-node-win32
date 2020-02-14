@@ -13,7 +13,7 @@
 #undef APSTUDIO_READONLY_SYMBOLS
 
 /////////////////////////////////////////////////////////////////////////////
-// English (United States) resources
+// Englisch (USA) resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
 LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
@@ -67,7 +67,7 @@ BEGIN
     BEGIN
         BLOCK "040904b0"
         BEGIN
-            VALUE "FileDescription", "munin-node for Windows"
+            VALUE "FileDescription", "munin-node for Windows (THK)"
             VALUE "FileVersion", "1.7.3.0"
             VALUE "InternalName", "munin-node-win32"
             VALUE "LegalCopyright", "Copyright (C) 2006-2011 Jory 'jcsston' Stone, modified by Adam Groszer, Lourens Ros"
@@ -92,7 +92,7 @@ END
 // remains consistent on all systems.
 IDI_ICON1               ICON                    "bird.ico"
 
-#endif    // English (United States) resources
+#endif    // Englisch (USA) resources
 /////////////////////////////////////////////////////////////////////////////
 
 
